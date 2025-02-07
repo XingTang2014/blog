@@ -8,6 +8,7 @@ Hi! I’m **Xing Tang**, a bioinformatics scientist and entrepreneur passionate 
 - **Genomics & Computational Biology** – Skilled in high-throughput data analysis (RNA-seq, single-cell RNA-seq, CRISPR screens, etc.).  
 - **Drug Discovery & Target Identification** – Led and contributed to **preclinical pipelines** in pharmaceutical companies.  
 - **AI & Large Language Models** – Developed **ACMGator**, an AI-powered tool for extracting clinical evidence from genetic literature.  
+- **RNA-Targeting Therapeutics (ASO & Small Molecules)** – Extensive experience in developing drugs that target **RNA** through **antisense oligonucleotides (ASO)** and **small molecules** to modulate splicing and gene expression.  
 - **Data Integration & Visualization** – Built multiple **bioinformatics platforms** to analyze and interpret multi-omics data.  
 
 ### 💼 Work Experience  
@@ -32,7 +33,12 @@ If you are also exploring **effective learning strategies** while juggling **car
 
 ## 🍼 Meet My Little One  
 
-![My Baby ❤️](https://raw.githubusercontent.com/your-username/your-repo/main/baby-photo.jpg)  
+<img src="https://github.com/XingTang2014/blog/blob/main/images/personal/baby_1.jpeg" alt="Baby Photo 1" width="300"/>  
+
+<img src="https://github.com/XingTang2014/blog/blob/main/images/personal/baby_2.jpeg" alt="Baby Photo 2" width="300"/>  
+
+<img src="https://github.com/XingTang2014/blog/blob/main/images/personal/baby_3.jpeg" alt="Baby Photo 3" width="300"/>
+
 
 ---
 
